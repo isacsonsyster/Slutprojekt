@@ -1,0 +1,15 @@
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\obj\Debug\SimpleQuiz.csprojAssemblyReference.cache
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\obj\Debug\MainWindow.g.cs
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\obj\Debug\App.g.cs
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\obj\Debug\SimpleQuiz_MarkupCompile.cache
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\obj\Debug\SimpleQuiz_MarkupCompile.lref
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\bin\Debug\SimpleQuiz.exe.config
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\bin\Debug\SimpleQuiz.exe
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\bin\Debug\SimpleQuiz.pdb
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\obj\Debug\MainWindow.baml
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\obj\Debug\SimpleQuiz.g.resources
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\obj\Debug\SimpleQuiz.Properties.Resources.resources
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\obj\Debug\SimpleQuiz.csproj.GenerateResource.cache
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\obj\Debug\SimpleQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\obj\Debug\SimpleQuiz.exe
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\Slutprojekt\SimpleQuiz\SimpleQuiz\obj\Debug\SimpleQuiz.pdb

@@ -1,0 +1,24 @@
+﻿<Window x:Class="SimpleQuiz.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleQuiz"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="572" Width="800">
+    <Canvas Name="myCanvas" Background="Beige">
+        <Label Name="scoreText" FontSize="18">Score: 0/10</Label>
+        <Label Name="questionOrder" FontSize="18" Canvas.Left="365">Questions</Label>
+
+        <TextBlock Name="txtQuestion" TextAlignment="Center" FontSize="20" TextWrapping="Wrap" Width="572" Canvas.Left="113" Canvas.Top="80">
+            Välkommen till denna frågesport, här ska du svara på frågor om Ester Isacson. Varje fråga kommer ha 4 svarsalternativ och du ska trycka på det du tror är rätt.
+        </TextBlock>
+
+        <Button Background="white" FontSize="18" Click="checkAnswer" Name="ans1" Width="200" Height="50" Content="Answer 1" Tag ="0" Canvas.Left="113" Canvas.Top="225" />
+        <Button Background="white" FontSize="18" Click="checkAnswer" Name="ans2" Width="200" Height="50" Content="Answer 2" Tag ="0" Canvas.Left="113" Canvas.Top="335" />
+        <Button Background="white" FontSize="18" Click="checkAnswer" Name="ans3" Width="200" Height="50" Content="Answer 3" Tag ="0" Canvas.Left="485" Canvas.Top="225" />
+        <Button Background="white" FontSize="18" Click="checkAnswer" Name="ans4" Width="200" Height="50" Content="Answer 4" Tag ="0" Canvas.Left="485" Canvas.Top="335" />
+
+
+    </Canvas>
+</Window>
